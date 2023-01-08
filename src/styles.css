@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&display=swap");
+
+.App {
+  font-family: "Comic Neue", cursive;
+  text-align: center;
+}
+:root {
+  --primary-color: #e6af2e;
+  --secondary-color: #e0e2db;
+  --text-color: #1b2021;
+}
+body {
+  background-color: var(--secondary-color);
+  margin-top: 0;
+}
+input {
+  margin: auto;
+  background-color: var(--secondary-color);
+  width: 75%;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.header {
+  color: var(--text-color);
+  background-color: var(--primary-color);
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.heading2 {
+  color: var(--text-color);
+  font-size: 15px;
+}
+.meanHeading {
+  color: var(--text-color);
+  margin: auto;
+  font-weight: bold;
+  padding: 1rem;
+}
+.answer {
+  color: var(--text-color);
+  font-size: "15px";
+  font-weight: "bold";
+  margin: auto;
+  margin-top: "0.5rem";
+}

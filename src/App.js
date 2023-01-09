@@ -16,7 +16,7 @@ var emojiDictionnary = {
   "🍕": "Pizza",
   "🌭": "Hot Dog",
   "🥪": "Sandwich",
-  "🌮 ": "Taco",
+  "🌮": "Taco",
   "🌯": "Burrito"
 };
 
